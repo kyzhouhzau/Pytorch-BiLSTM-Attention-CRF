@@ -49,10 +49,4 @@ F_score=0.927 Recal_score=0.934
 =========================================
 ```
 
-## reference:
 
-[https://github.com/threelittlemonkeys/lstm-crf-pytorch/blob/master/model.py](https://github.com/threelittlemonkeys/lstm-crf-pytorch/blob/master/model.py)
-
-[https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html?highlight=sequence](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html?highlight=sequence)
-
-[https://zhuanlan.zhihu.com/p/27338210](https://zhuanlan.zhihu.com/p/27338210)
