@@ -1,4 +1,7 @@
 # Pytorch-BiLSTM-Attention-CRF
+
+Since some of the tricks will be used for article writing, so the code will is opened latter.
+
 Use pytorch to finish BiLSTM-CRF and intergrate Attention mechanism！
 
  ----------------------------------2019-04-07--------------------------------------
